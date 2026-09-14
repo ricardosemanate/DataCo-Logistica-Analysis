@@ -12,7 +12,7 @@ El objetivo de este análisis es evaluar la magnitud de este desfase utilizando 
 
 ## 3. Análisis Visual
 
-![Promesa vs Realidad](./grafica_promesa_vs_realidad.png)
+![Promesa vs Realidad](grafica_promesa_vs_realidad.png)
 
 ## 4. Hallazgos Clave e Insights de Negocio
 Al contrastar las métricas mediante la visualización de datos, se identificaron los siguientes patrones críticos:
